@@ -1,0 +1,27 @@
+Name,scope name,LOC,CYCLO,MAXNESTING,NOP,NOAV,NOLV,FANOUT,FANIN,ATFD,FDP,CINT,CC,CM,LAA,Brain Method
+parseString,HeredocTerm,83,14,3,2,17,4,19,0,5,1,14,0,0,0.71,true
+parseQuote,RubyYaccLexer,73,19,4,1,22,3,8,1,0,0,2,0,0,1,true
+parseNumber,RubyYaccLexer,217,56,6,1,12,5,13,1,0,0,2,0,0,1,true
+parseStringIntoBuffer,StringTerm,70,30,10,2,14,2,9,2,0,0,6,1,1,1,true
+convertRubyToJava,JavaUtil,107,33,9,2,14,10,37,10,14,4,18,6,9,0,true
+get_with_class,JavaProxyClass,152,27,5,2,37,33,36,0,4,2,11,0,0,0,true
+compilePattern,RubyDateFormat,113,29,4,1,26,3,9,1,0,0,0,0,0,1,true
+format,RubyDateFormat,144,40,6,3,44,3,22,0,2,1,2,0,0,0.71,true
+glob_helper,Dir,145,56,7,8,38,20,31,2,20,1,5,0,0,0,true
+unpack,Pack,352,98,8,3,68,62,31,1,0,0,7,1,1,1,true
+createTime,RubyTime,80,19,6,3,21,11,20,2,0,0,2,0,0,1,true
+unmarshalObjectDirectly,UnmarshalStream,92,25,5,1,7,4,31,1,4,2,13,0,0,0.73,true
+yyparse,DefaultRubyParser,2423,436,7,1,61,34,186,1,184,12,88,0,0,0.60,true
+constructYamlStr,SafeConstructorImpl,4,2,1,2,3,1,2,1,0,0,1,0,1,1,false
+resetStacks,RubyYaccLexer,4,1,0,0,2,0,1,1,0,0,1,0,0,1,false
+childNodes,BackRefNode,3,1,0,0,1,0,0,0,0,0,0,0,0,1,false
+getModuleWithInstanceVar,RubyModule,8,3,2,1,2,1,2,3,0,0,0,0,0,1,false
+visitDStrNode,DefaultIteratorVisitor,4,1,0,1,2,0,1,0,0,0,1,0,0,1,false
+size,WeakHashSet,3,1,0,0,1,0,1,0,0,0,0,0,0,1,false
+close_write,RubyStringIO,4,1,0,0,1,0,2,0,1,1,1,0,0,0.50,false
+marshalTo,RubyStruct,12,2,1,2,6,3,9,1,0,0,4,1,1,1,false
+findReg,Matcher,19,8,4,6,10,1,3,1,3,1,0,0,0,0,false
+pre_match,RubyStringScanner,3,1,0,0,1,0,2,0,0,0,1,0,0,1,false
+write,TextAreaReadline,3,1,0,1,1,0,2,0,0,0,0,0,0,1,false
+toString,JavaProxyReflectionObject,3,1,0,0,0,0,2,1,0,0,0,0,0,1,false
+indices,RubyHash,9,2,1,1,4,2,4,0,0,0,1,0,0,1,false

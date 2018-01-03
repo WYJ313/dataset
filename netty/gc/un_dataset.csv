@@ -1,0 +1,17 @@
+Name,LOCC,NOM,NOA,AMW,FANOUT,ATFD,FDP,CBO,CC,CM,NOAM,NOPA,DIT,God Class
+DefaultChannelPipeline,785,46,7,2.59,26,4,1,11,5,12,1,0,0,true
+Locations,654,34,8,1.35,6,6,3,3,2,4,5,1,1,true
+Builder,394,36,3,1.97,9,9,3,3,2,2,1,0,1,true
+LocalTimes,654,34,8,1.35,3,3,2,2,1,4,5,1,1,true
+LocalTime,870,43,21,1.79,3,3,1,1,2,6,10,1,1,true
+Location,545,34,11,1.50,3,3,1,1,3,7,4,1,1,true
+SpdyFrameDecoder,417,6,8,12.17,33,24,3,4,1,1,0,0,0,true
+GlobalChannelTrafficShapingHandler,799,41,17,2.17,29,5,2,10,1,2,4,2,2,true
+ConversionUtilTest,48,5,0,1,0,0,0,0,0,0,0,0,0,false
+StreamComparator,18,2,1,1.50,2,2,2,2,0,0,0,0,0,false
+SocksCmdResponseDecoderTest,28,2,1,1.50,5,1,1,4,0,0,0,0,0,false
+CaseIgnoringComparator,18,3,2,1,0,0,0,0,0,0,0,0,0,false
+CookieDecoder,329,5,8,11.80,25,1,1,9,2,15,0,0,0,false
+UptimeClient,37,1,4,1,6,0,0,4,0,0,0,0,0,false
+AbstractChannelBufferTest,1606,97,5,2.11,85,0,0,1,0,0,0,0,0,false
+BigEndianHeapChannelBufferTest,21,3,1,1,2,0,0,2,0,0,0,0,1,false

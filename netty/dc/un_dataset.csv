@@ -1,0 +1,13 @@
+Name,LOCC,NOM,NOA,AMW,FANOUT,ATFD,FDP,CBO,CC,CM,NOAM,NOPA,DIT,Data Class
+HeaderEntry,50,7,6,1.29,1,0,0,1,1,2,2,6,0,true
+SeekAheadOptimize,46,4,6,1.25,7,0,0,2,2,6,1,6,0,true
+HeaderEntry,51,7,6,1.14,1,0,0,1,1,2,2,6,0,true
+Setting,36,7,3,1,0,0,0,0,1,7,5,0,0,true
+StreamState,82,16,8,1,0,0,0,0,2,17,3,0,0,true
+PerChannel,7,1,5,0,0,0,0,0,0,0,0,5,0,true
+SpdyOrHttpChooser,96,7,2,1.29,13,13,11,11,0,0,0,0,0,false
+ClientCookieEncoderTest,31,3,0,1,5,0,0,2,0,0,0,0,0,false
+LocalAddressTest,121,2,1,1,13,0,0,8,0,0,0,0,0,false
+RtspMessageDecoder,46,4,1,2,6,0,0,5,0,0,0,0,2,false
+ClassLoaderClassResolver,17,2,1,1,0,0,0,0,0,0,0,0,0,false
+AdaptiveReceiveBufferSizePredictor,135,5,11,3.40,0,0,0,0,0,0,0,0,0,false

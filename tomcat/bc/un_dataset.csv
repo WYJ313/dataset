@@ -1,0 +1,15 @@
+Name,LOCC,NOM,NOA,AMW,FANOUT,ATFD,FDP,CBO,CC,CM,NOAM,NOPA,DIT,Brain Class
+JKStatusUpdateTask,384,30,14,2,0,0,0,0,0,0,26,0,3,true
+ELSupport,472,23,1,6.74,7,0,0,4,0,0,0,0,0,true
+ELParserTokenManager,1288,35,25,10.97,18,8,2,3,1,7,1,7,0,true
+Parser,1724,56,14,6.30,101,22,14,44,0,0,0,0,0,true
+EmbeddedServletOptions,649,35,29,3.29,15,0,0,8,0,0,26,1,0,true
+JspRuntimeLibrary,941,44,2,4.70,19,0,0,8,0,0,0,0,0,true
+UTF8Reader,605,12,7,7.17,4,0,0,2,0,0,0,0,1,true
+Constants,36,0,12,0,0,0,0,0,0,0,0,0,0,false
+PrivilegedStoreKeys,10,2,0,1,2,1,1,2,0,0,0,0,0,false
+EvaluationContext,55,11,3,1,0,0,0,0,3,15,3,0,1,false
+BaseRequest,309,30,22,1.10,6,0,0,3,0,0,10,19,0,false
+JspSourceDependent,11,1,0,0,0,0,0,0,2,2,0,0,0,false
+AjpConnectionHandler,151,6,4,2,36,34,8,9,1,2,0,0,0,false
+ManagedBean,580,26,13,2.19,16,7,3,5,13,72,13,1,0,false

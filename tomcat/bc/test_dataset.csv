@@ -1,0 +1,25 @@
+LOCC,NOM,NOA,AMW,FANOUT,ATFD,FDP,CBO,CC,CM,NOAM,NOPA,DIT,Brain Class
+CoyoteAdapter,1259,17,8,11.29,68,63,18,21,0,0,0,0,0,true
+JKStatusUpdateTask,385,30,14,2,0,0,0,0,0,0,26,0,1,true
+FormAuthenticator,658,13,3,6.62,42,28,12,14,0,0,5,0,4,true
+ApplicationDispatcher,989,16,11,7.56,49,9,3,20,3,3,0,0,0,true
+StandardHostValve,396,6,5,7.83,27,17,9,12,0,0,0,0,3,true
+SSIServletExternalResolver,538,21,7,5.57,33,2,1,9,0,0,0,0,0,true
+SecureNioChannel,649,22,13,5,14,14,4,4,0,0,3,0,1,true
+WsFrameBase,783,23,23,4.74,12,12,9,9,1,1,1,0,0,true
+Http11InputBuffer,1018,22,23,7.05,20,20,7,7,2,17,5,0,0,true
+Parser,1770,57,14,6.05,41,37,8,8,0,0,0,0,0,true
+EmbeddedServletOptions,768,39,33,3.33,11,0,0,4,0,0,30,1,0,true
+JspRuntimeLibrary,916,43,0,4.65,23,0,0,8,0,0,0,0,0,true
+BufferPoolAPI,9,4,0,0,0,0,0,0,1,4,0,0,0,false
+1,6,1,0,1,4,0,0,1,0,0,0,0,1,false
+ResolverImpl,159,8,1,7.12,5,0,0,2,0,0,0,0,1,false
+AstNotEqual,13,2,0,1,0,0,0,0,0,0,0,0,3,false
+Closeable,18,2,0,0,0,0,0,0,0,0,0,0,0,false
+SSIExec,49,1,2,4,2,2,2,2,0,0,0,0,0,false
+ServletResponse,305,16,0,0,0,0,0,0,9,10,0,0,0,false
+JarFactory,41,3,0,2.67,4,0,0,4,0,0,0,0,0,false
+EmptyResource,144,25,3,1.08,0,0,0,0,0,0,15,0,0,false
+SecurityRoleRef,59,5,3,1.20,0,0,0,0,0,0,4,0,0,false
+MultipartDef,112,10,5,2.90,0,0,0,0,0,0,8,0,0,false
+SimpleCoordinator,85,10,2,1.50,1,0,0,1,0,0,1,0,1,false

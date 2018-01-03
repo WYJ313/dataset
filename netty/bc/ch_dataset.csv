@@ -1,0 +1,15 @@
+Name,LOCC,NOM,NOA,AMW,FANOUT,ATFD,FDP,CBO,CC,CM,NOAM,NOPA,DIT,Brain Class
+AbstractNioSelector,400,17,13,2.71,12,0,0,4,5,11,0,1,0,true
+OpenSslEngine,800,32,26,3.69,6,0,0,3,0,0,9,0,1,true
+HttpMessageDecoder,669,20,8,6.70,31,1,1,12,0,0,0,0,1,true
+Deflate,1629,38,84,7.18,14,2,2,5,2,6,0,56,0,true
+InfBlocks,654,7,31,13.29,8,2,1,4,2,5,0,6,0,true
+InfCodes,650,3,25,29.67,2,1,1,1,1,1,0,0,0,true
+Inflate,590,7,41,16.43,10,3,1,4,1,4,0,0,0,true
+LineBasedFrameDecoderTest,91,5,0,1,4,0,0,3,0,0,0,0,0,false
+AbstractOioWorker,224,9,4,4,28,3,1,5,1,1,0,0,0,false
+ClassResolver,5,1,0,0,0,0,0,0,1,2,0,0,0,false
+AbstractChannelBufferTest,1606,97,5,2.11,85,0,0,1,0,0,0,0,0,false
+JZlibTest,6,1,0,1,1,0,0,1,0,0,0,0,1,false
+PatternRule,148,9,6,3.89,3,0,0,2,1,1,1,0,0,false
+BigEndianDirectChannelBufferTest,17,2,1,1,2,0,0,1,0,0,0,0,1,false

@@ -1,0 +1,15 @@
+Name,LOCC,NOM,NOA,AMW,FANOUT,ATFD,FDP,CBO,CC,CM,NOAM,NOPA,DIT,Brain Class
+NetUtil,786,14,10,15.79,0,0,0,0,0,0,0,0,0,true
+SslHandler,1521,43,34,4.98,62,2,1,24,8,10,6,3,2,true
+CookieDecoder,329,5,8,11.80,25,1,1,9,2,15,0,0,0,true
+HttpPostRequestEncoder,1008,25,21,4.48,61,0,0,19,1,2,1,3,0,true
+HttpPostMultipartRequestDecoder,1617,35,14,6.54,63,1,1,22,0,0,0,0,0,true
+HttpPostStandardRequestDecoder,494,18,10,4.22,30,0,0,13,0,0,0,0,0,true
+SpdySessionHandler,859,16,17,6.69,71,58,23,26,0,4,0,0,1,true
+SocketReceiveBufferAllocatorTest,18,1,0,1,3,0,0,1,0,0,0,0,0,false
+NioSocketServerBootstrapTest,8,1,0,1,1,0,0,1,0,0,0,0,1,false
+HeapChannelBuffer,180,22,1,1.64,3,0,0,3,0,0,2,0,1,false
+ChannelDownstreamHandler,10,1,0,0,0,0,0,0,1,1,0,0,0,false
+GlobalChannelTrafficShapingHandler,799,41,17,2.17,29,5,2,10,1,2,4,2,2,false
+SerialMarshallingDecoderTest,15,2,0,1,5,0,0,3,0,0,0,0,2,false
+DefaultSpdyGoAwayFrame,68,8,2,1.12,3,0,0,2,0,0,3,0,0,false
